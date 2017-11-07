@@ -67,7 +67,7 @@ public class Application {
                     {
                         if(current_index>=last_index)
                         {
-                            System.out.println("The Animal You guessed is " + entry);
+                            System.out.println("Yes, Correct.The Animal You guessed is " + entry);
                             System.exit(0);
                         }
                         
