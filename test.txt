@@ -1,6 +1,0 @@
-lion=Is it the king of the jungle.?,Is it carnivorous?
-deer= Is it herbivorous?,Does it have horns?
-Dog=Is it a pet animal?,Does it bark?
-Cat=Test1,Test2
-Sheep=Sheep 1
-
