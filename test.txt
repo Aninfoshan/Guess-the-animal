@@ -1,0 +1,5 @@
+lion=Is it carnivorous?,Does it roar?,Is it the king of the jungle?,
+deer= Is it herbivorous?,is it lion's prey?,Does it have horns?
+Dog=Is it a pet animal?, Can we take it for a walk?,Does it bark?
+Cat=Does it drink milk?,Is it cute?,Does it meow?
+
